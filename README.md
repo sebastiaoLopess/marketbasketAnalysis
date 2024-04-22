@@ -1,4 +1,3 @@
-# regressaoEstatistica
-Análise de predição com base em um dataset com as horas de estudos e o salário
+# Market basket analysis
 
-Calculando a correlação entre essas duas variáveis
+Analisando carrinhos de compras e identificando relações entre produtos
